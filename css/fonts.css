@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "Ebrima";
+	src: url("../fonts/ebrimabd.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Inter";
+	src: url("../fonts/Inter-Regular-slnt=0.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Inter";
+	src: url("../fonts/Inter-Medium-slnt=0.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Roboto";
+	src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
