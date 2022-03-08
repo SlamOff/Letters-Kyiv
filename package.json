@@ -1,0 +1,19 @@
+{
+  "name": "letters-kyiv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlamOff/Letters-Kyiv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlamOff/Letters-Kyiv/issues"
+  },
+  "homepage": "https://github.com/SlamOff/Letters-Kyiv#readme"
+}
